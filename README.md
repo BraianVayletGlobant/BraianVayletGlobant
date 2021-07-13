@@ -8,7 +8,7 @@ Love it:
 - 💚 Node
 
 I'm interested:
-- AI
+- 🤍 AI
 - 🖤 Blockchain
 - 🧡 FrontEnd
 
