@@ -1,21 +1,14 @@
-- 👋 Hi, I’m @BraianVayletGlobant
-- 👀 I am interested in 
-  {
-    development: [FrontEnd, BackEnd]
-    design: UX/UI
-  }
-- 🌱 I am currently learning 
-  {
-    FrontEnd: [JavaScript, TypeScript, ReactJs, NextJs, Redux, Svelte, CSS, ...others],
-    BackEnd: [NodeJs, GraphQl, Express, NestJs, Deno, ...others]
-  }
-- 💞️ I’m looking to collaborate on all kinds of projects...
-- 📫 How to reach me 
-  {
-    mail: [braian.vaylet@globant.com, braianvaylet@gmail.com],
-    social: [linkedin, instagram]
-   }
-<!---
-BraianVayletGlobant/BraianVayletGlobant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Braian Vaylet and this is my Globant account
+
+- I work at [Globant](https://www.globant.com/) as a Web UI developer since January 2021, currently I work as a FrontEnd developer for a TELECOM project, one of our clients. I find myself using technologies like Next.js, React.js, Strapi, Stencil, TypeScript and others ...
+
+Love it:
+- 💛 JavaScript
+- 💙 React
+- 💚 Node
+
+I'm interested:
+- AI
+- 🖤 Blockchain
+- 🧡 FrontEnd
+
