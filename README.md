@@ -12,3 +12,6 @@ I find myself using technologies like Next.js, Stencil.js, TypeScript, Strapi, N
 - 🤍 Blockchain
 - 🖤 smart-contracts
 - 🧡 web3
+
+#### My personal Github Account
+- [BraianVaylet](https://github.com/BraianVaylet)
